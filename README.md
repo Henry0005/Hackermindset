@@ -1,4 +1,4 @@
-# Ferramentas de off sec que eu desenvolvi
+# Ferramentas de OffSec que eu desenvolvi
 Essas ferramentas foram desenvolvidas nas aula de HackerMindset com o professor Pardal
 -----
 A ferramenta [Primeiro Checkpoint.sh](https://github.com/Henry0005/Hackermindset/blob/main/Primeiro%20Checkpoint.sh) tem o objetivo de criar repositórios e arquivos .txts sendo possível alterar o que vai estar escrito em cada documento .txt

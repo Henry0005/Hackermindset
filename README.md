@@ -8,4 +8,3 @@ A ferramenta [Segundo Checkpoint.sh](https://github.com/Henry0005/Hackermindset/
 -----
 ### Meu perfil no TryHackMe
 [TryHackMe](https://tryhackme.com/p/Henry.05)
-![Tryhackme](%3Cimg%20src=%22https://tryhackme-badges.s3.amazonaws.com/Henry.05.png%22%20alt=%22TryHackMe%22%3E)

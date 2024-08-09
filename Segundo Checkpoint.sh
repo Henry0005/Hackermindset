@@ -75,9 +75,6 @@ for form in forms:
 '
 }
 
-
-
-
 # Verifica se o argumento foi fornecido
 if [ $# -ne 1 ]; then
     echo "Uso: $0 <URL>"
@@ -105,4 +102,3 @@ extract_urls "$url"
 # Extrai e exibe todos os formulários e inputs de texto do website
 echo "Formulários e inputs de texto encontrados:"
 extract_forms "$url"
-

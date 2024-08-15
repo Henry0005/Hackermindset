@@ -1,7 +1,7 @@
 import requests
 
 def verificar_subdominios(url, wordlist_path="subdomains-top1million-5000.txt"):
-    # Solicita ao usuário o número de subdomínios a serem verificados
+    # Solicita ao usuário o número de subdomínios a serem verificados no URL alvo
     try:
         num_subdominios = int(input("Digite o número de subdomínios a serem verificados: "))
     except ValueError:

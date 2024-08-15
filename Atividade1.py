@@ -4,7 +4,7 @@ nome_arquivo = "darkweb2017-top100.txt"
 # Tenta abrir e ler o arquivo alvo
 try:
     with open(nome_arquivo, 'r') as arquivo:
-        # Lê as 10 primeiras linhas
+        # Lê somente as 10 primeiras linhas
         for i, linha in enumerate(arquivo):
             if i < 10:
                 print(linha, end='')

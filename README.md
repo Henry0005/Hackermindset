@@ -3,7 +3,7 @@ Essas ferramentas foram desenvolvidas nas aula de HackerMindset com o professor 
 -----
 A ferramenta [Primeiro Checkpoint.sh](https://github.com/Henry0005/Hackermindset/blob/main/Primeiro_Checkpoint.sh) tem a função de criar repositórios e arquivos .txts sendo possível alterar o que será escrito em cada documento .txt
 
-A ferramenta [Segundo Checkpoint.sh](https://github.com/Henry0005/Hackermindset/blob/main/Segundo_Checkpoint.sh) tem a função de obter informações a partir de uma URL, retornando o título da página, servidor web utilizado, linguagens de programação utilizadas, exibe sub páginas do website, exibe todos os formulários e inputs de texto do website
+A ferramenta [Segundo Checkpoint.sh](https://github.com/Henry0005/Hackermindset/blob/main/Segundo_Checkpoint.sh) tem a função de obter informações a partir de um URL, retornando o título da página, servidor web utilizado, linguagens de programação utilizadas, exibe sub páginas do website, exibe todos os formulários e inputs de texto do website
 
 A ferramenta [Atividade1.py](https://github.com/Henry0005/Hackermindset/blob/main/Atividade1.py "Atividade1.py") tem a função de ler o arquivo [darkweb2017-top100.txt](https://github.com/Henry0005/Hackermindset/blob/main/darkweb2017-top100.txt "darkweb2017-top100.txt") e exibe somente as 10 primeiras linhas. Sua segunda versão [Atividade1_input.py](https://github.com/Henry0005/Hackermindset/blob/main/Atividade1_input.py "Atividade1_input.py") oferece a funcionalidade adicional de permitir que o usuário escolha o número de linhas a serem exibidas
 

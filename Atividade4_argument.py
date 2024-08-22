@@ -27,7 +27,7 @@ def main():
     
     if not args.url:
         print("Erro: A URL alvo deve ser fornecida.")
-        print("Uso: python Atividade2_argument.py <URL>")
+        print("Uso: python Atividade4_argument.py <URL>")
         sys.exit(1) 
     
     url_alvo = args.url

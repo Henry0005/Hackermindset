@@ -1,4 +1,4 @@
-# Nome do arquivo
+# Nome do arquivo a ser lido
 nome_arquivo = "darkweb2017-top100.txt"
 
 # Tenta abrir e ler o arquivo alvo

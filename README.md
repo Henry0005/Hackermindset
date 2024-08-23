@@ -10,7 +10,7 @@ A ferramenta [Atividade3.py](https://github.com/Henry0005/Hackermindset/blob/mai
 
 A ferramenta [Atividade4_argument.py](https://github.com/Henry0005/Hackermindset/blob/main/Atividade4_argument.py "Atividade4_argument.py") realiza 20 requisições GET buscando por subdomínios usando a SecList [subdomains-top1million-5000.txt](https://github.com/Henry0005/Hackermindset/blob/main/subdomains-top1million-5000.txt "subdomains-top1million-5000.txt") no URL alvo que deve ser descriminado como argumento ao executar a ferramenta. Sua variação sendo a [Atividade4_input.py](https://github.com/Henry0005/Hackermindset/blob/main/Atividade4_input.py "Atividade4_input.py") oferece a funcionalidade adicional de permitir ao usuário escolher o número de requisições GET e não exige que o URL alvo seja fornecido como argumento; em vez disso, o script solicitará a entrada do usuário durante a execução
 
-A ferramenta [Exercicio5.py](https://github.com/Henry0005/Hackermindset/blob/main/Exercicio5.py "Exercicio5.py") enumera paths e arquivos de um website utilizando wordlists sendo a padrão a [common.txt](https://github.com/Henry0005/Hackermindset/blob/main/common.txt "common.txt"), tendo a opção de trocar no código
+A ferramenta [Exercicio5.py](https://github.com/Henry0005/Hackermindset/blob/main/Exercicio5.py "Exercicio5.py") enumera paths e arquivos de um website utilizando wordlists, sendo [common.txt](https://github.com/Henry0005/Hackermindset/blob/main/common.txt "common.txt") a padrão, mas com a opção de trocar para outra no código
 
 -----
 ### Meu perfil no TryHackMe

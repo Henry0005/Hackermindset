@@ -1,0 +1,1 @@
+Para usar esta ferramenta "cp1.py" você deve manter o arquivo "common1.txt" na mesma pasta ou diretório do cp1.py, e o URL alvo será requsitado como um argumento na sua execução. E ele tem a função de enumerar subominos, paths e arquvos da url alvo.

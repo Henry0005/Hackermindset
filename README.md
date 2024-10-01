@@ -13,8 +13,10 @@ A ferramenta [Exercicio5.py](https://github.com/Henry0005/Hackermindset/blob/mai
 
 Para usar a ferramenta [cp1.py](https://github.com/Henry0005/Hackermindset/blob/main/cp1.py "cp1.py") você deve manter o arquivo [common1.txt](https://github.com/Henry0005/Hackermindset/blob/main/common1.txt "common1.txt") na mesma pasta ou diretório do [cp1.py](https://github.com/Henry0005/Hackermindset/blob/main/cp1.py "cp1.py"), e o URL alvo será requisitado como um argumento na sua execução. E ele tem a função de enumerar subdomínios, paths e arquivos da url alvo.
 
+O [PIIScanner.py](https://github.com/Henry0005/Hackermindset/blob/main/PIIScanner.py) é uma extensão para o Burp Suite que tem a função de encontrar informações pessoais nas páginas acessadas, como CPF, RG, CNPJ, números de celular e datas no formato (DD/MM/YYYY) e números de cartão de crédito.
+
 -----
 ### Meu perfil no TryHackMe
 [TryHackMe](https://tryhackme.com/p/Henry.05)
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Henry.05.png?7)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Henry.05.png?8)

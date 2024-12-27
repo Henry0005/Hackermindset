@@ -19,4 +19,4 @@ O [PIIScanner.py](https://github.com/Henry0005/Hackermindset/blob/main/PIIScanne
 ### Meu perfil no TryHackMe
 [TryHackMe](https://tryhackme.com/p/Henry.05)
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Henry.05.png)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Henry.05.png?update=0)

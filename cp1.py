@@ -1,4 +1,4 @@
-# 1TDCPG Henrique Ribeiro
+# 1TDCPG Henrique
 # Alvo https://www2.fiap.com.br
 
 import requests
